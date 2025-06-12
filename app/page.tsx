@@ -78,7 +78,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Why Choose Us */}
+      {/* Why Choose Us content */}
       <section className="bg-muted py-16">
         <div className="container">
           <h2 className="mb-12 text-center text-3xl font-bold tracking-tight sm:text-4xl">
@@ -121,7 +121,7 @@ export default function Home() {
           <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
             {[
               {
-                name: "Sarah Johnson",
+                name: "Rahul Shrivastava",
                 testimonial:
                   "CV Tour & Travels made our honeymoon absolutely perfect. Every detail was taken care of, and we could just relax and enjoy.",
               },
