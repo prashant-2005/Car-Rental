@@ -4,7 +4,7 @@ import { ArrowRight, Plane, Hotel, Car, Umbrella, Map, Globe, Briefcase, Users }
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-
+// service page 
 export default function ServicesPage() {
   return (
     <main className="flex min-h-screen flex-col">
